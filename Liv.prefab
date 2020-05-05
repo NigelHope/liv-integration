@@ -10,6 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2256900917360237139}
   - component: {fileID: 2256900917360237138}
+  - component: {fileID: 8751138158494281877}
   m_Layer: 0
   m_Name: Liv
   m_TagString: Untagged
@@ -49,3 +50,15 @@ MonoBehaviour:
   SpectatorLayerMask:
     serializedVersion: 2
     m_Bits: 4294967295
+--- !u!114 &8751138158494281877
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2256900917360237136}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3557b91404503d54b827a2857a3bea8f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

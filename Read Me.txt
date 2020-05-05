@@ -1,0 +1,1 @@
+To enable/disable LIV: "SDK Manager->LIV Enable Toggle"
